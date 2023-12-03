@@ -41,7 +41,7 @@ ipynb_requirements = read_requirements("ipynb")
 
 setup(
     name=PLATFORM_NAME,
-    version="0.1.0",
+    version="0.1.1",
     packages=find_packages(),
     package_data={
         "iccad_contest.contest-dataset": [
