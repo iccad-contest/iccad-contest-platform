@@ -105,12 +105,12 @@ The minimum software dependencies include:
 
 #### Option 1: Install the `pip3` package.
 ```bash
-$ pip3 install iccad-contest==0.1.2 # the latest version: v0.1.2
+$ pip3 install iccad-contest==0.1.3 # the latest version: v0.1.3
 ```
 
 #### Option 2: Install the source code.
 ```bash
-$ git clone 
+$ git clone https://github.com/iccad-contest/iccad-contest-platform 
 ```
 
 
@@ -377,7 +377,7 @@ The dummy dataset is located in `iccad_contest/contest-dataset/contest.csv`
 `time of the VLSI flow`: a scalar value denotes the time cost spent to evaluate accurate performance, power, and area values via the VLSI flow.
 
 We will evaluate your submission with the real dataset, measured with commonly-used benchmarks and commercial electronic design automation (EDA) tools.
-<span style="background-color: #00FFFF">You can evaluate your optimizers with the real dataset, following the guideline of the [<b>submission kit</b>](http://iccad-contest.org/Problems/testcase/Problem%20C_submission%20kit_0722.zip).
+<span style="background-color: #00FFFF">You can evaluate your optimizers with the real dataset, following the guideline of the [<b>submission kit</b>](https://github.com/iccad-contest/iccad-contest-starter-kit).
 You can evaluate your optimizers with the real dataset, following the guidelines of the submission kit.
 The submission kit guides you through submitting to our online submission and ranking website.
 You can see your results on a real dataset, *i.e.*, Pareto hypervolume and ORT.
@@ -465,8 +465,8 @@ The submission includes:
 > 
 > 3. Dependency packages list for supporting your algorithm execution (please name it as `requirements.txt`), if any
 
-Before your submission, please use our [submission kit](http://iccad-contest.org/Problems/testcase/Problem%20C_submission%20kit_0722.zip) to package your answers.
-The [submission kit](http://iccad-contest.org/Problems/testcase/Problem%20C_submission%20kit_0722.zip) has provided example submissions for your reference.
+Before your submission, please use our [submission kit](https://github.com/iccad-contest/iccad-contest-starter-kit) to package your answers.
+The [submission kit](https://github.com/iccad-contest/iccad-contest-starter-kit) has provided example submissions for your reference.
 
 
 ## 7. Evaluate Your Submission
