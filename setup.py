@@ -49,7 +49,7 @@ setup(
             "*.xlsx"
         ]
     },
-    url="https://code.aone.alibaba-inc.com/ctl-research/iccad-contest-platform",
+    url="https://github.com/iccad-contest/iccad-contest-platform",
     author="Chen BAI",
     author_email=("baichen.bai@alibaba-inc.com"),
     license="Apache v2",
