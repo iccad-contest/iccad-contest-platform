@@ -105,7 +105,7 @@ The minimum software dependencies include:
 
 #### Option 1: Install the `pip3` package.
 ```bash
-$ pip3 install iccad-contest==0.1.1 # the latest version: v0.1.1
+$ pip3 install iccad-contest==0.1.2 # the latest version: v0.1.2
 ```
 
 #### Option 2: Install the source code.
